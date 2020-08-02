@@ -40,3 +40,4 @@ chmod 755 install.sh
 
 ## Raspberry Pi I2C GPIO Pinout
 FYI, VCC could be different by manufacturer (5v or 3.3v)
+![i2c](RetroPie-OLED-RaspberryGPIO.png)
