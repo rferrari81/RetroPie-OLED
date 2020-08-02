@@ -1,10 +1,9 @@
 # RetroPie-OLED
 Retropie OLED Display MOD version by Roby F.
+Show Game Title on 128x64 OLED I2C Display for RetroPie v4.0.2+
 
 ![oled example00](RetroPie-info.png)
 ![oled example01](RetroPie-game.png)
-
-Show Game Title on 128x64 OLED I2C Display for RetroPie v4.0.2+
 
 ## About
 This script written in Python for RetroPie project (https://retropie.org.uk/) running on Raspberry Pi 2,3, which displays all necessary info on a 128x64 OLED I2C display
