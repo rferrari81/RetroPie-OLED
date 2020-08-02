@@ -1,8 +1,8 @@
 # RetroPie-OLED
 Retropie OLED Display MOD version by Roby F.
 
-![i2c](RetroPie-info.jpg)
-![i2c](RetroPie-game.jpg)
+![i2c](RetroPie-info.png)
+![i2c](RetroPie-game.png)
 
 Show Game Title on 128x64 OLED I2C Display for RetroPie v4.0.2+
 
