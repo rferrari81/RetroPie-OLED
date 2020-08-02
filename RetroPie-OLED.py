@@ -2,14 +2,15 @@
 # -*- coding: utf-8 -*-
 
 """
-Title        : RetroPie_OLED.py
-Author       : zzeromin, losernator and members of Tentacle Team
-Creation Date: Nov 13, 2016
-Cafe         : http://cafe.naver.com/raspigamer
-Thanks to    : smyani, zerocool, GreatKStar and members of Raspigamer Cafe.
+Title          : RetroPie-OLED.py
+Author         : zzeromin, losernator and members of Tentacle Team
+Creation Date  : Nov 13, 2016
+Thanks to      : smyani, zerocool, GreatKStar and members of Raspigamer Cafe.
 Free and open for all to use. But put credit where credit is due.
+MOD version by : Roby F.
+Release        : 02-02-2020
 
-Reference    :
+Reference      :
 https://github.com/haven-jeon/piAu_volumio
 https://github.com/adafruit/Adafruit_CircuitPython_SSD1306
 https://pillow.readthedocs.io/en/stable/
