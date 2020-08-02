@@ -32,7 +32,7 @@ Step 2. Install Retropie-OLED Script
 
 
 cd ~
-git clone https://github.com/losernator/RetroPie-OLED.git
+git clone https://github.com/rferrari81/RetroPie-OLED.git
 cd ./RetroPie-OLED/
 chmod 755 install.sh
 ./install.sh
