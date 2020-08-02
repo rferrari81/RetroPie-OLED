@@ -30,7 +30,6 @@ Could not find any info, then display the file name.
 Step 1. Scrap metadata ( https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper )
 
 Step 2. Install Retropie-OLED Script
-
 <pre><code>
 cd ~
 git clone https://github.com/rferrari81/RetroPie-OLED.git
