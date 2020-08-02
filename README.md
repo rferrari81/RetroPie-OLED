@@ -26,7 +26,7 @@ RetroPie v4.0.2 and later
 128x64 OLED I2C display
 
 ##INSTALL
-
+<pre><code>
 Step 1. Scrap metadata ( https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper )
 Step 2. Install Retropie-OLED Script
 cd ~
@@ -34,6 +34,7 @@ git clone https://github.com/rferrari81/RetroPie-OLED.git
 cd ./RetroPie-OLED/
 chmod 755 install.sh
 ./install.sh
+</code></pre>
 
 ##Raspberry Pi I2C GPIO Pinout
 FYI, VCC could be different by manufacturer (5v or 3.3v)
