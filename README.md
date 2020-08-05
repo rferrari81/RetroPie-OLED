@@ -23,6 +23,13 @@ Could not find any info, then display the file name.
 * Title image of currently running romfile
 * Double-byte character set support (Korean/Chinese/Japanese)
 
+## Changelog
+
+5/8/2020
+* Add CPU realtime clock speed monitor
+* Add GPU temperature monitor
+* BugFix
+
 ## Development Environment
 * Raspberry Pi 2, 3, 4
 * RetroPie v4.0.2 and later
