@@ -18,7 +18,8 @@ Could not find any info, then display the file name.
 ## Features
 
 * IP address of eth0, wlan0
-* CPU Temperature
+* CPU and GPU Temperature
+* CPU realtime clock speed monitor and CPU usage percentage
 * Emulator name and ROM information
 * Title image of currently running romfile
 * Double-byte character set support (Korean/Chinese/Japanese)
