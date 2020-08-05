@@ -17,7 +17,7 @@ Could not find any info, then display the file name.
 
 ## Features
 
-* Current Date and Time, IP address of eth0, wlan0
+* IP address of eth0, wlan0
 * CPU Temperature
 * Emulator name and ROM information
 * Title image of currently running romfile
