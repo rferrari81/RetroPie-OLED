@@ -31,6 +31,7 @@ Could not find any info, then display the file name.
 * Added CPU realtime clock speed monitor
 * Added GPU temperature monitor
 * BugFix
+
 7/8/2020
 * Added CPU over temperature control, this feature checks when the CPU gets too hot.
   If the temperature reaches a range of 70/75 degrees, you are warned with an alarm on the display.
