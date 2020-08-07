@@ -23,13 +23,18 @@ Could not find any info, then display the file name.
 * Emulator name and ROM information
 * Title image of currently running romfile
 * Double-byte character set support (Korean/Chinese/Japanese)
+* CPU over temperature control
 
 ## Changelog
 
 5/8/2020
-* Add CPU realtime clock speed monitor
-* Add GPU temperature monitor
+* Added CPU realtime clock speed monitor
+* Added GPU temperature monitor
 * BugFix
+7/8/2020
+* Added CPU over temperature control, this feature checks when the CPU gets too hot.
+  If the temperature reaches a range of 70/75 degrees, you are warned with an alarm on the display.
+  If the temperature exceeds 75 degrees, the raspberry is automatically turned off.
 
 ## Development Environment
 * Raspberry Pi 2, 3, 4
