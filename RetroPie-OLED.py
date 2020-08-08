@@ -294,6 +294,7 @@ def main():
                     system = f.readline()
                     system = system.replace("\n","")
                     systemMap = {
+                        "c64":"Commodore 64",
                         "dosbox":"DOS BOX",
                         "arcade":"Arcade Game",
                         "fba":"FinalBurn Alpha",
