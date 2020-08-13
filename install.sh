@@ -9,7 +9,7 @@
 #
 # Install        :
 # cd ~
-# git clone https://github.com/zzeromin/RetroPie-OLED.git
+# git clone https://github.com/rferrari81/RetroPie-OLED.git
 # cd RetroPie-OLED
 # chmod 755 install.sh
 # sudo ./install.sh
